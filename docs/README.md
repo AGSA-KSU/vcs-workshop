@@ -7,7 +7,7 @@ During the workshop, you will:
 Set up a GitHub repository for research collaboration
 Explore essential VCS features like branching, merging, and pull requests
 Learn to track and document project changes for better transparency and reproducibility
-and discover the practical application of GitHub's VCS features. By the end of the session, you'll have gained valuable insights into how GitHub can improve your research workflow and promote a more collaborative research environment.
+and discover the practical application of GitHub's VCS features.
 
 Join us for this engaging workshop and unlock the power of GitHub to boost your research projects!
 
@@ -17,6 +17,6 @@ Join us for this engaging workshop and unlock the power of GitHub to boost your 
 
 2. [Install GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
 
-3. [Install Anaconda (for following the live example)](https://docs.anaconda.com/anaconda/install/index.html)
+3. [Install Anaconda (for following the live example)](https://www.anaconda.com/products/distribution)
 
 If you have any isssue with any of this steps before the workshop do not hesistate to contact me: [jperaza@ksu.edu](mailto:jperaza@ksu.edu)
