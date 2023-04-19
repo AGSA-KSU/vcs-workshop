@@ -1,4 +1,4 @@
-# vcs-workshop
+# Boost Research Collaboration using Version Control Systems
 
 Discover the full potential of GitHub as a Version Control System (VCS) in this interactive workshop, focusing on enhancing collaboration and reproducibility in research. We'll provide a hands-on learning experience that showcases the key features of GitHub, empowering you to harness its capabilities in your own research projects.
 
