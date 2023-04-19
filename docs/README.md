@@ -21,3 +21,8 @@ Join us for this engaging workshop and unlock the power of GitHub to boost your 
 
 If you have any isssue with any of this steps before the workshop do not hesistate to contact me: [jperaza@ksu.edu](mailto:jperaza@ksu.edu).
 Don't forget to bring your laptop with the recommended software installed for getting the most from this workshop!
+
+### Event flyer:
+
+![Event Flyer](https://mcusercontent.com/b488a1e00fd1dcdc5a330eac3/images/24d44950-6a42-b7b3-e3ac-476da1521227.png)
+
