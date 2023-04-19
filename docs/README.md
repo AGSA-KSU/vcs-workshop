@@ -19,5 +19,5 @@ Join us for this engaging workshop and unlock the power of GitHub to boost your 
 
 3. [Install Anaconda (for following the live example)](https://www.anaconda.com/products/distribution)
 
-If you have any isssue with any of this steps before the workshop do not hesistate to contact me: [jperaza@ksu.edu](mailto:jperaza@ksu.edu)
+If you have any isssue with any of this steps before the workshop do not hesistate to contact me: [jperaza@ksu.edu](mailto:jperaza@ksu.edu).
 Don't forget to bring your laptop with the recommended software installed for getting the most from this workshop!
