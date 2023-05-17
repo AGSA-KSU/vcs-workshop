@@ -1,3 +1,7 @@
+## Check out the live coded example here:
+
+[<img alt="alt_text" width="400px" src="https://opengraph.githubassets.com/9d565e99b85ca4740a8cd9b8316dd8923a503a4f8938b0d276386fae0e1be75b/AGSA-Agronomy/agronomic_calculator_example" />](https://github.com/AGSA-Agronomy/agronomic_calculator_example)
+
 # Boost Research Collaboration using Version Control Systems
 
 Discover the full potential of GitHub as a Version Control System (VCS) in this interactive workshop, focusing on enhancing collaboration and reproducibility in research. We'll provide a hands-on learning experience that showcases the key features of GitHub, empowering you to harness its capabilities in your own research projects.
